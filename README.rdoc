@@ -3,4 +3,4 @@
 
 Welcome to The Blog.
 
-* Work in progress
+* Now able to make simple post with a 'time ago' stamp.
